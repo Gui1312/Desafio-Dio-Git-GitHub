@@ -1,2 +1,3 @@
 primeiro desafio da dio
 Para utilizar o Git/GitHub
+usando o Git/GitHub para direcionar códigos abertos
